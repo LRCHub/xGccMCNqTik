@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "君がいるだけで",
   "base_artist": "米米CLUB",
-  "createdAt": "2026-02-17T09:18:14.217375Z",
+  "createdAt": "2026-03-19T09:43:34.902106Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,15 @@
       "artist": "米米CLUB",
       "has_synced": false,
       "path": "select/pl_01_君がいるだけで_米米CLUB.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "君がいるだけで",
+      "artist": "米米CLUB",
+      "has_synced": false,
+      "path": "select/localdb_01_君がいるだけで_米米CLUB.txt",
+      "repo_name": "5Q8vU0GWGzM"
     }
   ]
 }
